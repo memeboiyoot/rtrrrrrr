@@ -74,7 +74,7 @@ Themes = {
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
                Halloween = {
-			Main = Color3.fromRGB(37, 35, 33),
+			Main = Color3.fromRGB(255, 123, 8),
 			Secondary = Color3.fromRGB(65, 63, 63),
 			Tertiary = Color3.fromRGB(237, 94, 38),
 
