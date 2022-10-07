@@ -75,7 +75,7 @@ Themes = {
 		},
                Halloween = {
 			Main = Color3.fromRGB(255, 123, 8),
-			Secondary = Color3.fromRGB(65, 63, 63),
+			Secondary = Color3.fromRGB(255, 123, 8),
 			Tertiary = Color3.fromRGB(237, 94, 38),
 
 			StrongText = Color3.fromHSV(0, 0, 1),		
